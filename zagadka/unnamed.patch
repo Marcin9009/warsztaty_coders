@@ -1,0 +1,11 @@
+Index: zagadka/Gra_w_zagadke.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- zagadka/Gra_w_zagadke.py	(date 1605339588058)
++++ zagadka/Gra_w_zagadke.py	(date 1605339588058)
+@@ -0,0 +1,2 @@
++## Gra w zagadkę ###
++from
+\ No newline at end of file
